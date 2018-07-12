@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://blog.rustguru.com/2018/07/10/First-blog/</loc>
+    <lastmod>2018-07-10T11:10:54.000Z</lastmod>
+    <data>
+        <display>
+        <title>First-blog</title>
+        <pubTime>2018-07-10T11:09:42.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.rustguru.com/2018/07/10/Init-blog/</loc>
+    <lastmod>2018-07-10T03:18:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>Init blog</title>
+        <pubTime>2018-07-10T03:16:44.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.rustguru.com/2018/07/10/hello-world/</loc>
+    <lastmod>2018-07-10T03:10:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-07-10T03:10:48.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
