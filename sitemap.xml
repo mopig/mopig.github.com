@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://xiaozhu.dev/categories/</loc><lastmod>2020-05-06T20:11:59+08:00</lastmod></url><url>
     <loc>https://xiaozhu.dev/posts/</loc><lastmod>2020-05-06T20:11:59+08:00</lastmod></url><url>
+    <loc>https://xiaozhu.dev/tags/</loc><lastmod>2020-05-06T20:11:59+08:00</lastmod></url><url>
+    <loc>https://xiaozhu.dev/tags/taylor-swift/</loc><lastmod>2020-05-06T20:11:59+08:00</lastmod></url><url>
     <loc>https://xiaozhu.dev/posts/taylor-swift-2020-05-06/</loc><lastmod>2020-05-06T20:11:59+08:00</lastmod></url><url>
+    <loc>https://xiaozhu.dev/categories/%E5%9B%BE%E7%89%87/</loc><lastmod>2020-05-06T20:11:59+08:00</lastmod></url><url>
+    <loc>https://xiaozhu.dev/tags/%E7%BE%8E%E5%9B%BE/</loc><lastmod>2020-05-06T20:11:59+08:00</lastmod></url><url>
     <loc>https://xiaozhu.dev/resume/</loc><lastmod>2020-05-05T18:15:45+08:00</lastmod></url><url>
     <loc>https://xiaozhu.dev/</loc><lastmod>2020-05-05T18:15:45+08:00</lastmod></url><url>
     <loc>https://xiaozhu.dev/about/</loc><lastmod>2020-05-05T00:21:29+08:00</lastmod></url><url>
     <loc>https://xiaozhu.dev/posts/algorithm-count-one/</loc><lastmod>2020-05-04T20:13:45+08:00</lastmod></url><url>
-    <loc>https://xiaozhu.dev/categories/</loc><lastmod>2020-05-04T20:13:45+08:00</lastmod></url><url>
-    <loc>https://xiaozhu.dev/tags/</loc><lastmod>2020-05-04T20:13:45+08:00</lastmod></url><url>
     <loc>https://xiaozhu.dev/categories/%E6%8A%80%E6%9C%AF/</loc><lastmod>2020-05-04T20:13:45+08:00</lastmod></url><url>
     <loc>https://xiaozhu.dev/tags/%E7%AE%97%E6%B3%95/</loc><lastmod>2020-05-04T20:13:45+08:00</lastmod></url><url>
     <loc>https://xiaozhu.dev/tags/npm/</loc><lastmod>2020-05-04T19:23:01+08:00</lastmod></url><url>

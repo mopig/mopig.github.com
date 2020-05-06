@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>©2020 Leo</copyright>
-    <lastBuildDate>Mon, 04 May 2020 20:13:45 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 20:11:59 +0800</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Taylor Swift</title>
+      <link>/tags/taylor-swift/</link>
+      <pubDate>Wed, 06 May 2020 20:11:59 +0800</pubDate>
+      
+      <guid>/tags/taylor-swift/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>美图</title>
+      <link>/tags/%E7%BE%8E%E5%9B%BE/</link>
+      <pubDate>Wed, 06 May 2020 20:11:59 +0800</pubDate>
+      
+      <guid>/tags/%E7%BE%8E%E5%9B%BE/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>算法</title>
