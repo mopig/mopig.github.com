@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Posts</title>
+      <link>/posts/</link>
+      <pubDate>Wed, 06 May 2020 20:11:59 +0800</pubDate>
+      
+      <guid>/posts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Resume</title>
       <link>/resume/</link>
       <pubDate>Tue, 05 May 2020 18:15:45 +0800</pubDate>
@@ -29,16 +39,6 @@
       
       <guid>/about/</guid>
       <description>个人简介 职业：💻 前端工程师 爱好：⌨️ Coding，音乐 简历：🗒 Resume 👇 联系方式 👇</description>
-      
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>/posts/</link>
-      <pubDate>Mon, 04 May 2020 20:13:45 +0800</pubDate>
-      
-      <guid>/posts/</guid>
-      <description></description>
       
     </item>
     

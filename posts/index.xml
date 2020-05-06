@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>©2020 Leo</copyright>
-    <lastBuildDate>Mon, 04 May 2020 20:13:45 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 20:11:59 +0800</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Taylor Swift 的一张高清图片</title>
+      <link>/posts/taylor-swift-2020-05-06/</link>
+      <pubDate>Wed, 06 May 2020 20:11:59 +0800</pubDate>
+      
+      <guid>/posts/taylor-swift-2020-05-06/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Algorithm Count One</title>
