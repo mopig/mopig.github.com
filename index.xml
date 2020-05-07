@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright> &amp; Leo</copyright>
-    <lastBuildDate>Thu, 07 May 2020 17:36:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 13:35:22 +0800</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Skills</title>
-      <link>/skills/</link>
+      <title>Posts</title>
+      <link>/posts/</link>
       <pubDate>Thu, 07 May 2020 17:36:04 +0800</pubDate>
       
-      <guid>/skills/</guid>
-      <description>技能分类 📑 协议 OR 标准文档 HTTP 协议（包括 http1.1/http2/http3 以及 https 的 TLS） ES20XX 标准文档 MDN Web 开发文档 七层网络协议（重点是 TCP/IP） 🔠 语言 OR 语法糖 JavaScript TypeScript Python Java Rust Shell 📦 框</description>
+      <guid>/posts/</guid>
+      <description></description>
       
     </item>
     
@@ -29,16 +29,6 @@
       
       <guid>/links/</guid>
       <description>排名不分先后 论坛 v2ex - 程序员论坛：技术/设计 OurCoders - 程序员论坛：财务自由/出国 reddit/javascript - reddit 论坛 JavasSript 板块 博客 阮一峰 - 科技人文 小胡子哥 - 前端技术 张鑫旭 - CSS 尤雨</description>
-      
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>/posts/</link>
-      <pubDate>Wed, 06 May 2020 20:11:59 +0800</pubDate>
-      
-      <guid>/posts/</guid>
-      <description></description>
       
     </item>
     
