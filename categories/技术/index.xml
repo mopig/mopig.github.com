@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright> &amp; Leo</copyright>
-    <lastBuildDate>Mon, 04 May 2020 20:13:45 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 17:36:04 +0800</lastBuildDate>
     
         <atom:link href="/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>技能列表，包括会的和想会的</title>
+      <link>/posts/skills/</link>
+      <pubDate>Thu, 07 May 2020 17:36:04 +0800</pubDate>
+      
+      <guid>/posts/skills/</guid>
+      <description>技能分类 📑 协议 OR 标准文档 HTTP 协议（包括 http1.1/http2/http3 以及 https 的 TLS） ES20XX 标准文档 MDN Web 开发文档 七层网络协议（重点是 TCP/IP） 🔠 语言 OR 语法糖 JavaScript TypeScript Python Java Rust Shell 📦 框</description>
+      
+    </item>
     
     <item>
       <title>Algorithm Count One</title>

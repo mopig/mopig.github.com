@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技能 on 小猪</title>
+    <link>/tags/%E6%8A%80%E8%83%BD/</link>
+    <description>Recent content in 技能 on 小猪</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright> &amp; Leo</copyright>
+    <lastBuildDate>Thu, 07 May 2020 17:36:04 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/%E6%8A%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>技能列表，包括会的和想会的</title>
+      <link>/posts/skills/</link>
+      <pubDate>Thu, 07 May 2020 17:36:04 +0800</pubDate>
+      
+      <guid>/posts/skills/</guid>
+      <description>技能分类 📑 协议 OR 标准文档 HTTP 协议（包括 http1.1/http2/http3 以及 https 的 TLS） ES20XX 标准文档 MDN Web 开发文档 七层网络协议（重点是 TCP/IP） 🔠 语言 OR 语法糖 JavaScript TypeScript Python Java Rust Shell 📦 框</description>
+      
+    </item>
+    
+  </channel>
+</rss>
