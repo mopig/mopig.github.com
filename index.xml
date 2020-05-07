@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>Favorite Sites</title>
-      <link>/favorite-sites/</link>
+      <title>收藏网站列表</title>
+      <link>/links/</link>
       <pubDate>Thu, 07 May 2020 13:35:22 +0800</pubDate>
       
-      <guid>/favorite-sites/</guid>
-      <description>收藏网站列表 排名不分先后 论坛 v2ex - 程序员论坛：技术/设计 OurCoders - 程序员论坛：财务自由/出国 reddit/javascript - reddit 论坛 JavasSript 板块 博客 阮一峰 - 科技人文 小胡子哥 - 前端技术 张</description>
+      <guid>/links/</guid>
+      <description>排名不分先后 论坛 v2ex - 程序员论坛：技术/设计 OurCoders - 程序员论坛：财务自由/出国 reddit/javascript - reddit 论坛 JavasSript 板块 博客 阮一峰 - 科技人文 小胡子哥 - 前端技术 张鑫旭 - CSS 尤雨</description>
       
     </item>
     
