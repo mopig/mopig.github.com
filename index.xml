@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright> &amp; Leo</copyright>
-    <lastBuildDate>Thu, 07 May 2020 13:35:22 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 17:36:04 +0800</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Skills</title>
+      <link>/skills/</link>
+      <pubDate>Thu, 07 May 2020 17:36:04 +0800</pubDate>
+      
+      <guid>/skills/</guid>
+      <description>技能分类 📑 协议 OR 标准文档 HTTP 协议（包括 http1.1/http2/http3 以及 https 的 TLS） ES20XX 标准文档 MDN Web 开发文档 七层网络协议（重点是 TCP/IP） 🔠 语言 OR 语法糖 JavaScript TypeScript Python Java Rust Shell 📦 框</description>
+      
+    </item>
     
     <item>
       <title>收藏网站列表</title>
@@ -48,7 +58,7 @@
       <pubDate>Tue, 05 May 2020 00:21:29 +0800</pubDate>
       
       <guid>/about/</guid>
-      <description>个人简介 职业：💻 前端工程师 爱好：⌨️ Coding，音乐 简历：🗒 Resume 👇 联系方式 👇</description>
+      <description>个人简介 职业：💻 前端工程师 爱好：⌨️ Coding，音乐 提升：👨🏻‍💻 技能 &amp;amp; 学习列表 简历：🗒 Resume 👇 联系方式 👇</description>
       
     </item>
     
