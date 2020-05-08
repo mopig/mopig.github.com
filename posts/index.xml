@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright> &amp; Leo</copyright>
-    <lastBuildDate>Thu, 07 May 2020 17:36:04 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 16:05:50 +0800</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 年五四青年节期间，bilibili 在微信朋友圈推出「后浪」广告片，引发巨大讨论</title>
+      <link>/posts/significant-event-bilibili-houlang/</link>
+      <pubDate>Fri, 08 May 2020 16:05:50 +0800</pubDate>
+      
+      <guid>/posts/significant-event-bilibili-houlang/</guid>
+      <description>事件视频 相关评论 待补充。。。</description>
+      
+    </item>
     
     <item>
       <title>技能列表，包括会的和想会的</title>
@@ -49,16 +59,6 @@
       
       <guid>/posts/npm-version/</guid>
       <description>关于 npm version 的使用 正常的版本更新 大版本更新（包含 breaking change）：npm version major 小版本更新（小的功能迭代）：npm version minor 补丁更新（bugfix）：np</description>
-      
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>/posts/test/</link>
-      <pubDate>Mon, 04 May 2020 19:23:01 +0800</pubDate>
-      
-      <guid>/posts/test/</guid>
-      <description>bilibili 视频 shortcodes</description>
       
     </item>
     
