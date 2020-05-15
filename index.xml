@@ -38,7 +38,7 @@
       <pubDate>Tue, 05 May 2020 18:15:45 +0800</pubDate>
       
       <guid>/resume/</guid>
-      <description>个人简历</description>
+      <description>个人简历 获取简历地址 const container = document.querySelector(&#39;#resume&#39;) const getBtn = document.querySelector(&#39;#get-resume&#39;) const input = document.querySelector(&#39;#password&#39;) const urlBox = document.querySelector(&#39;#resumeUrl&#39;) const form = document.querySelector(&#39;#resume-form&#39;) form.addEventListener(&#39;submit&#39;, e = { e.preventDefault() }) getBtn.addEventListener(&#39;click&#39;, async () = { urlBox.innerHTML = &#39;&#39; const val = input.value if (!val) { alert(&#39;请输入密码!&#39;) return } getBtn.setAttribute(&#39;disabled&#39;, true)</description>
       
     </item>
     
