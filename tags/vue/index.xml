@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>vue on 小猪</title>
+    <link>/tags/vue/</link>
+    <description>Recent content in vue on 小猪</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright> &amp; Leo</copyright>
+    <lastBuildDate>Tue, 02 Jun 2020 23:01:14 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/vue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>创造 Vue3 的过程</title>
+      <link>/posts/the-process-of-making-vue-3/</link>
+      <pubDate>Tue, 02 Jun 2020 23:01:14 +0800</pubDate>
+      
+      <guid>/posts/the-process-of-making-vue-3/</guid>
+      <description>原文链接The process: Making Vue 3 by EVAN YOU 重写 Vue.js 的下一个主要版本的经验教训。 在过去的一年中，Vue 团队一直在研究 Vue.js 的下一个主要版本，我们希望在2020年上</description>
+      
+    </item>
+    
+  </channel>
+</rss>

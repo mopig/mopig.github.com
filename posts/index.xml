@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright> &amp; Leo</copyright>
-    <lastBuildDate>Fri, 08 May 2020 16:05:50 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 23:01:14 +0800</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>创造 Vue3 的过程</title>
+      <link>/posts/the-process-of-making-vue-3/</link>
+      <pubDate>Tue, 02 Jun 2020 23:01:14 +0800</pubDate>
+      
+      <guid>/posts/the-process-of-making-vue-3/</guid>
+      <description>原文链接The process: Making Vue 3 by EVAN YOU 重写 Vue.js 的下一个主要版本的经验教训。 在过去的一年中，Vue 团队一直在研究 Vue.js 的下一个主要版本，我们希望在2020年上</description>
+      
+    </item>
     
     <item>
       <title>2020 年五四青年节期间，bilibili 在微信朋友圈推出「后浪」广告片，引发巨大讨论</title>
