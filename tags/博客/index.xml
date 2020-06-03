@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>博客 on 小猪</title>
+    <link>/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on 小猪</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright> &amp; Leo</copyright>
+    <lastBuildDate>Mon, 04 May 2020 20:13:45 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>终极构建博客网站方案</title>
+      <link>/posts/best-way-to-build-blog/</link>
+      <pubDate>Mon, 04 May 2020 20:13:45 +0800</pubDate>
+      
+      <guid>/posts/best-way-to-build-blog/</guid>
+      <description>最终效果 创建 md 文件，运行 ./deploy.sh 生产静态文件 &amp;amp;&amp;amp; 自动推送到 github，出发 vercel 的 webhook，自动部署到 vercel 的生产环境 套餐组合 云服务 - vercel 博客框架 - hugo</description>
+      
+    </item>
+    
+  </channel>
+</rss>

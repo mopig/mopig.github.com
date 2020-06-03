@@ -153,6 +153,26 @@
     </item>
     
     <item>
+      <title>blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Mon, 04 May 2020 20:13:45 +0800</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>博客</title>
+      <link>/tags/%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 04 May 2020 20:13:45 +0800</pubDate>
+      
+      <guid>/tags/%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>算法</title>
       <link>/tags/%E7%AE%97%E6%B3%95/</link>
       <pubDate>Mon, 04 May 2020 20:13:45 +0800</pubDate>
