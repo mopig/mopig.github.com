@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 小猪 - 部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2020 23:01:14 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 01:02:01 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaozhu.dev/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Navigator.sendBeacon API 异步发送数据</title>
+      <link>https://xiaozhu.dev/post/send-beacon-api/</link>
+      <pubDate>Wed, 15 Jul 2020 01:02:01 +0800</pubDate>
+      
+      <guid>https://xiaozhu.dev/post/send-beacon-api/</guid>
+      <description>Syntax 1 2 // data: ArrayBuffer, ArrayBufferView, Blob, DOMString, FormData, or URLSearchParams navigator.sendBeacon(url, data) 场景 浏览器在触发 unload 事件时，会忽略异步请求，这样会导致一些需要发送统计数据的功能失效，在之前一般有以下三种方法解决</description>
+    </item>
     
     <item>
       <title>创造 Vue3 的过程</title>
