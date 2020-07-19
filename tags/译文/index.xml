@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>译文 on 小猪 - 部落格</title>
+    <link>https://xiaozhu.dev/tags/%E8%AF%91%E6%96%87/</link>
+    <description>Recent content in 译文 on 小猪 - 部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Jul 2020 16:23:01 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaozhu.dev/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vue 文档编写指南「译」</title>
+      <link>https://xiaozhu.dev/post/vue-docs-writing-guide/</link>
+      <pubDate>Sun, 19 Jul 2020 16:23:01 +0800</pubDate>
+      
+      <guid>https://xiaozhu.dev/post/vue-docs-writing-guide/</guid>
+      <description>一直觉得 Vue 的文档的阅读体验不错，所以在 Vue3 即将发布之际，认真阅读了他们最新的编写指南。为了加深记忆，将它翻译成中文原文，如下： 编写文档是一种换</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 小猪 - 部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2020 01:02:01 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 16:23:01 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaozhu.dev/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vue 文档编写指南「译」</title>
+      <link>https://xiaozhu.dev/post/vue-docs-writing-guide/</link>
+      <pubDate>Sun, 19 Jul 2020 16:23:01 +0800</pubDate>
+      
+      <guid>https://xiaozhu.dev/post/vue-docs-writing-guide/</guid>
+      <description>一直觉得 Vue 的文档的阅读体验不错，所以在 Vue3 即将发布之际，认真阅读了他们最新的编写指南。为了加深记忆，将它翻译成中文原文，如下： 编写文档是一种换</description>
+    </item>
     
     <item>
       <title>Navigator.sendBeacon API 异步发送数据</title>

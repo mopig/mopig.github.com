@@ -3,7 +3,49 @@
   
   <url>
     <loc>https://xiaozhu.dev/categories/</loc>
-    <lastmod>2020-07-15T01:02:01+08:00</lastmod>
+    <lastmod>2020-07-19T16:23:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaozhu.dev/post/</loc>
+    <lastmod>2020-07-19T16:23:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaozhu.dev/tags/</loc>
+    <lastmod>2020-07-19T16:23:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaozhu.dev/post/vue-docs-writing-guide/</loc>
+    <lastmod>2020-07-19T16:23:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaozhu.dev/categories/%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2020-07-19T16:23:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaozhu.dev/</loc>
+    <lastmod>2020-07-19T16:23:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaozhu.dev/tags/%E8%AF%91%E6%96%87/</loc>
+    <lastmod>2020-07-19T16:23:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,13 +65,6 @@
   </url>
   
   <url>
-    <loc>https://xiaozhu.dev/post/</loc>
-    <lastmod>2020-07-15T01:02:01+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaozhu.dev/tags/sendbeacon/</loc>
     <lastmod>2020-07-15T01:02:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,21 +72,7 @@
   </url>
   
   <url>
-    <loc>https://xiaozhu.dev/tags/</loc>
-    <lastmod>2020-07-15T01:02:01+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaozhu.dev/tags/unload/</loc>
-    <lastmod>2020-07-15T01:02:01+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaozhu.dev/</loc>
     <lastmod>2020-07-15T01:02:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
