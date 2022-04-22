@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>npm on 小猪 - 部落格</title><link>https://xiaozhu.dev/tags/npm/</link><description>Recent content in npm on 小猪 - 部落格</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 04 May 2020 19:23:01 +0800</lastBuildDate><atom:link href="https://xiaozhu.dev/tags/npm/index.xml" rel="self" type="application/rss+xml"/><item><title>Npm Version</title><link>https://xiaozhu.dev/post/npm-version/</link><pubDate>Mon, 04 May 2020 19:23:01 +0800</pubDate><guid>https://xiaozhu.dev/post/npm-version/</guid><description>关于 npm version 的使用 正常的版本更新 大版本更新（包含 breaking change）：npm version major 小版本更新（小的功能迭代）：npm version minor 补丁更新（bugfix）：np</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>npm on 小猪 - 部落格</title>
+    <link>https://xiaozhu.dev/tags/npm/</link>
+    <description>Recent content in npm on 小猪 - 部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 May 2020 19:23:01 +0800</lastBuildDate><atom:link href="https://xiaozhu.dev/tags/npm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Npm Version</title>
+      <link>https://xiaozhu.dev/post/npm-version/</link>
+      <pubDate>Mon, 04 May 2020 19:23:01 +0800</pubDate>
+      
+      <guid>https://xiaozhu.dev/post/npm-version/</guid>
+      <description>关于 npm version 的使用 正常的版本更新 大版本更新（包含 breaking change）：npm version major 小版本更新（小的功能迭代）：npm version minor 补丁更新（bugfix）：np</description>
+    </item>
+    
+  </channel>
+</rss>

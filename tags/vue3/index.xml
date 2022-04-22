@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vue3 on 小猪 - 部落格</title><link>https://xiaozhu.dev/tags/vue3/</link><description>Recent content in vue3 on 小猪 - 部落格</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Jun 2020 23:01:14 +0800</lastBuildDate><atom:link href="https://xiaozhu.dev/tags/vue3/index.xml" rel="self" type="application/rss+xml"/><item><title>创造 Vue3 的过程「译」</title><link>https://xiaozhu.dev/post/the-process-of-making-vue-3/</link><pubDate>Tue, 02 Jun 2020 23:01:14 +0800</pubDate><guid>https://xiaozhu.dev/post/the-process-of-making-vue-3/</guid><description>原文链接：The process: Making Vue 3 by EVAN YOU 重写 Vue.js 的下一个主要版本的经验教训 在过去的一年中，Vue 团队一直在研究 Vue.js 的下一个主要版本，我们希望在2020年上</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vue3 on 小猪 - 部落格</title>
+    <link>https://xiaozhu.dev/tags/vue3/</link>
+    <description>Recent content in vue3 on 小猪 - 部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jun 2020 23:01:14 +0800</lastBuildDate><atom:link href="https://xiaozhu.dev/tags/vue3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>创造 Vue3 的过程「译」</title>
+      <link>https://xiaozhu.dev/post/the-process-of-making-vue-3/</link>
+      <pubDate>Tue, 02 Jun 2020 23:01:14 +0800</pubDate>
+      
+      <guid>https://xiaozhu.dev/post/the-process-of-making-vue-3/</guid>
+      <description>原文链接：The process: Making Vue 3 by EVAN YOU 重写 Vue.js 的下一个主要版本的经验教训 在过去的一年中，Vue 团队一直在研究 Vue.js 的下一个主要版本，我们希望在2020年上</description>
+    </item>
+    
+  </channel>
+</rss>

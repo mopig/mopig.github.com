@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>工具 on 小猪 - 部落格</title><link>https://xiaozhu.dev/categories/%E5%B7%A5%E5%85%B7/</link><description>Recent content in 工具 on 小猪 - 部落格</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 25 Mar 2021 11:30:45 +0800</lastBuildDate><atom:link href="https://xiaozhu.dev/categories/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>前端开发环境 - Mac 篇</title><link>https://xiaozhu.dev/post/web-dev-mac-env/</link><pubDate>Thu, 25 Mar 2021 11:30:45 +0800</pubDate><guid>https://xiaozhu.dev/post/web-dev-mac-env/</guid><description>工具列表 iTerm2 - 终端 VS Code - 编辑器 Chrome - 浏览器 ClashX - 网络工具 Alfred - 效率工具 Dash - 开发文档工具 Paw - 接口调试工具 SwitchHosts! - 管理 host TablePlus - 数据库工具 Charles - 网络代理工具 uPic - 上</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工具 on 小猪 - 部落格</title>
+    <link>https://xiaozhu.dev/categories/%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 工具 on 小猪 - 部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Mar 2021 11:30:45 +0800</lastBuildDate><atom:link href="https://xiaozhu.dev/categories/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>前端开发环境 - Mac 篇</title>
+      <link>https://xiaozhu.dev/post/web-dev-mac-env/</link>
+      <pubDate>Thu, 25 Mar 2021 11:30:45 +0800</pubDate>
+      
+      <guid>https://xiaozhu.dev/post/web-dev-mac-env/</guid>
+      <description>工具列表 iTerm2 - 终端 VS Code - 编辑器 Chrome - 浏览器 ClashX - 网络工具 Alfred - 效率工具 Dash - 开发文档工具 Paw - 接口调试工具 SwitchHosts! - 管理 host TablePlus - 数据库工具 Charles - 网络代理工具 uPic - 上</description>
+    </item>
+    
+  </channel>
+</rss>
